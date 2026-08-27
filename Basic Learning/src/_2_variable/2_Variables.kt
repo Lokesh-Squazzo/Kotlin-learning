@@ -1,3 +1,4 @@
+package _2_variable
 /*
 We have 2 types of vairable here
     1. Val -> it is like java final, which we can't reassign
